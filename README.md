@@ -1,5 +1,9 @@
 # 💫 About Me:
-      Hi, I'm Harshit 👋  <br>🎓 BCA Student passionate about programming  <br>💻 Currently learning C, SQL, and Database concepts  <br>📊 Interested in Software Development & Problem Solving  <br>🚀 Building projects to improve real-world coding skills
+      Hi, I'm Harshit 👋  
+      <br>🎓 BCA Student passionate about programming  
+      <br>💻 Currently learning C, SQL, and Database concepts  
+      <br>📊 Interested in Software Development & Problem Solving  
+      <br>🚀 Building projects to improve real-world coding skills
 
 
 ## 🌐 Socials:
